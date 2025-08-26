@@ -26,17 +26,27 @@ This personal portfolio is built with **React** and **Tailwind CSS**, fully resp
 ## 📷 Screenshots
 
 ### 🏠 Hero Section
-<img src="https://via.placeholder.com/600x400" alt="Hero Section" width="600"/>
+<img width="1373" height="904" alt="hero" src="https://github.com/user-attachments/assets/3c48c805-11cc-4781-bf65-7dc61c98b3b5" />
+
+
 
 ---
 
 ### 🚀 Projects Section
-<img src="https://via.placeholder.com/600x400" alt="Projects Section" width="600"/>
+<img width="1492" height="807" alt="projects" src="https://github.com/user-attachments/assets/c27a649d-004e-4687-8436-8ab3b42b504a" />
+
 
 ---
 
-### 💻 Skills & Contact Section
-<img src="https://via.placeholder.com/600x400" alt="Skills and Contact Section" width="600"/>
+### 💻 Skills Section
+<img width="1384" height="918" alt="skills" src="https://github.com/user-attachments/assets/00ac5806-c711-48e8-acb5-eba6e9b3b8d4" />
+
+
+---
+
+### 📧 Contact Section
+<img width="1387" height="858" alt="contact" src="https://github.com/user-attachments/assets/52c784a4-f74e-40b8-9c99-582175141f56" />
+
 
 ---
 
