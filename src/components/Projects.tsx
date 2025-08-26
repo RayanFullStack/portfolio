@@ -11,6 +11,15 @@ const Projects = () => {
       color: "from-purple-500 to-indigo-500",
       github: "https://github.com/RayanFullStack/TechnoBoutik",
       demo: "https://techno-boutik.fr"
+    },
+    {
+      title: "Portfolio Website",
+      description: "My personal portfolio showcasing my projects, skills, and contact information. Built with React, Vite, Tailwind CSS, and deployed on VPS with Nginx and HTTPS.",
+      image: "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&w=800",
+      technologies: ["React", "Vite", "Tailwind", "VPS", "Nginx", "HTTPS"],
+      color: "from-indigo-500 to-purple-500",
+      github: "https://github.com/RayanFullStack/portfolio",
+      demo: "https://www.rayan-f.dev"
     }
   ];
 
