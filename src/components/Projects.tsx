@@ -15,7 +15,7 @@ const Projects = () => {
     {
       title: "Portfolio Website",
       description: "My personal portfolio showcasing my projects, skills, and contact information. Built with React, Vite, Tailwind CSS, and deployed on VPS with Nginx and HTTPS.",
-      image: "https://images.pexels.com/photos/3184299/pexels-photo-3184299.jpeg?auto=compress&cs=tinysrgb&w=800",
+      image: "https://www.adobe.com/fr/express/learn/blog/media_14f59b64ae2d37db7519eba1b0134fe9a1341d15b.png?width=750&format=png&optimize=medium",
       technologies: ["React", "Vite", "Tailwind", "VPS", "Nginx", "HTTPS"],
       color: "from-indigo-500 to-purple-500",
       github: "https://github.com/RayanFullStack/portfolio",
